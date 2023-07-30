@@ -12,7 +12,7 @@
 
   const selectedData = jsonData.find((item => item.id === randomValue));
   const tagsArr = selectedData.Tags ? selectedData.Tags.split(",") : [];
-  console.log(selectedData.Poem);
+  console.log(selectedData);
 </script>
 
 <main>
