@@ -31,7 +31,7 @@
 <style>
   .display {
     min-height: 50vh;
-    padding: 2rem;
+    padding: 1.5rem;
   }
   .line-break-text {
     white-space: pre-wrap;
