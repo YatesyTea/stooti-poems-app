@@ -30,8 +30,6 @@
 
 <style>
   .display {
-    border-radius: 25px;
-    background-color: #eee8d5;
     min-height: 50vh;
     padding: 2rem;
   }
