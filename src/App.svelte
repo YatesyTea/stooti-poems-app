@@ -9,7 +9,7 @@
 <main>
   <img
     class="rounded-pic"
-    src="src/assets/spachisia.jpg"
+    src="/src/assets/spachisia.jpg"
     alt='stooti'
   />
   <h1>Stooti's Random Poem of the Day</h1>
