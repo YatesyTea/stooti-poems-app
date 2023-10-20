@@ -1,5 +1,6 @@
 <script>
   import Card from "./lib/Card.svelte";
+  import Stuti from "./assets/spachisia.jpg"
   const currentDate = new Date();
   const month = currentDate.getMonth() + 1;
   const day = currentDate.getDate();
@@ -9,7 +10,7 @@
 <main>
   <img
     class="rounded-pic"
-    src="/src/assets/spachisia.jpg"
+    src="{Stuti}"
     alt='stooti'
   />
   <h1>Stooti's Random Poem of the Day</h1>
